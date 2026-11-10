@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">The procrastination loop, and how to break it</title>
+  <desc id="d">A loop of three steps. A task feels bad: boring, scary or confusing. Putting it off brings quick relief. The task grows and feels even worse, which leads back to the start. Two ways out of the loop: shrink the first step until it is tiny, and forgive yourself instead of beating yourself up.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M0 0 L10 5 L0 10 z" fill="#52514e"/>
+    </marker>
+  </defs>
+  <rect width="720" height="360" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">The procrastination loop</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Putting things off is mostly about avoiding a bad feeling, not laziness.</text>
+
+  <rect x="40" y="100" width="190" height="70" rx="8" fill="#eb6834"/>
+  <text x="56" y="130" font-size="15" font-weight="700" fill="#ffffff">The task feels bad</text>
+  <text x="56" y="152" font-size="13" fill="#ffffff">boring, scary, confusing</text>
+
+  <rect x="290" y="100" width="190" height="70" rx="8" fill="#eb6834"/>
+  <text x="306" y="130" font-size="15" font-weight="700" fill="#ffffff">Put it off</text>
+  <text x="306" y="152" font-size="13" fill="#ffffff">quick relief, for now</text>
+
+  <rect x="165" y="230" width="190" height="70" rx="8" fill="#eb6834"/>
+  <text x="181" y="260" font-size="15" font-weight="700" fill="#ffffff">The task grows</text>
+  <text x="181" y="282" font-size="13" fill="#ffffff">and feels even worse</text>
+
+  <g stroke="#52514e" stroke-width="2" fill="none" marker-end="url(#a)">
+    <line x1="232" y1="135" x2="286" y2="135"/>
+    <line x1="385" y1="172" x2="320" y2="226"/>
+    <line x1="163" y1="265" x2="110" y2="174"/>
+  </g>
+
+  <text x="520" y="110" font-size="15" font-weight="700" fill="#0b0b0b">Ways out</text>
+  <rect x="520" y="122" width="170" height="70" rx="8" fill="#2a78d6"/>
+  <text x="534" y="150" font-size="14" font-weight="700" fill="#ffffff">Shrink the first step</text>
+  <text x="534" y="172" font-size="13" fill="#ffffff">"Just open the letter"</text>
+  <rect x="520" y="206" width="170" height="70" rx="8" fill="#2a78d6"/>
+  <text x="534" y="234" font-size="14" font-weight="700" fill="#ffffff">Forgive yourself</text>
+  <text x="534" y="256" font-size="13" fill="#ffffff">guilt feeds the loop</text>
+
+  <text x="40" y="340" font-size="12" fill="#52514e">Based on the research in the course's facts. If avoidance is wrecking your life, a counsellor can help.</text>
+</svg>
