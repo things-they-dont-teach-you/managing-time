@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" width="720" height="360" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Planning a week in four steps</title>
+  <desc id="d">Four steps for planning a week. First, put in fixed blocks such as shifts, commutes, care and sleep. Second, add one or two important tasks at a set time, written as if-then plans. Third, leave buffers for late transport, interruptions or power cuts. Fourth, what's left is flexible time. An example week shows shift blocks, one study block on Tuesday, a licence renewal on the day off, and buffers after shifts.</desc>
+  <rect width="720" height="360" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Plan your week in this order</text>
+
+  <g font-size="14">
+    <rect x="40" y="64" width="18" height="18" rx="3" fill="#52514e"/><text x="66" y="78" fill="#0b0b0b">1. Fixed: shifts, commute, care, sleep</text>
+    <rect x="370" y="64" width="18" height="18" rx="3" fill="#2a78d6"/><text x="396" y="78" fill="#0b0b0b">2. One or two important tasks</text>
+    <rect x="40" y="92" width="18" height="18" rx="3" fill="#eb6834"/><text x="66" y="106" fill="#0b0b0b">3. Buffers for when things go wrong</text>
+    <rect x="370" y="92" width="18" height="18" rx="3" fill="#ffffff" stroke="#c9c8c2"/><text x="396" y="106" fill="#0b0b0b">4. The rest is flexible</text>
+  </g>
+
+  <!-- 7 columns, 88px wide from x=40; day from y=140 to y=320 -->
+  <g font-size="13" font-weight="600" fill="#52514e" text-anchor="middle">
+    <text x="84" y="134">Mon</text><text x="172" y="134">Tue</text><text x="260" y="134">Wed</text><text x="348" y="134">Thu</text><text x="436" y="134">Fri</text><text x="524" y="134">Sat</text><text x="612" y="134">Sun</text>
+  </g>
+  <g fill="#ffffff" stroke="#c9c8c2">
+    <rect x="44" y="142" width="80" height="178" rx="4"/><rect x="132" y="142" width="80" height="178" rx="4"/><rect x="220" y="142" width="80" height="178" rx="4"/><rect x="308" y="142" width="80" height="178" rx="4"/><rect x="396" y="142" width="80" height="178" rx="4"/><rect x="484" y="142" width="80" height="178" rx="4"/><rect x="572" y="142" width="80" height="178" rx="4"/>
+  </g>
+  <g fill="#52514e">
+    <rect x="44" y="150" width="80" height="90" rx="4"/><rect x="132" y="150" width="80" height="90" rx="4"/><rect x="308" y="190" width="80" height="90" rx="4"/><rect x="396" y="190" width="80" height="90" rx="4"/><rect x="484" y="150" width="80" height="90" rx="4"/>
+  </g>
+  <g font-size="12" fill="#ffffff" text-anchor="middle">
+    <text x="84" y="200">Shift</text><text x="172" y="200">Shift</text><text x="348" y="240">Shift</text><text x="436" y="240">Shift</text><text x="524" y="200">Shift</text>
+  </g>
+  <g fill="#eb6834">
+    <rect x="44" y="244" width="80" height="18" rx="4"/><rect x="132" y="244" width="80" height="18" rx="4"/><rect x="308" y="284" width="80" height="18" rx="4"/><rect x="396" y="284" width="80" height="18" rx="4"/><rect x="484" y="244" width="80" height="18" rx="4"/>
+  </g>
+  <rect x="132" y="270" width="80" height="34" rx="4" fill="#2a78d6"/>
+  <text x="172" y="292" font-size="12" fill="#ffffff" text-anchor="middle">Study</text>
+  <rect x="220" y="180" width="80" height="34" rx="4" fill="#2a78d6"/>
+  <text x="260" y="202" font-size="12" fill="#ffffff" text-anchor="middle">Licence</text>
+  <rect x="572" y="150" width="80" height="34" rx="4" fill="#2a78d6"/>
+  <text x="612" y="172" font-size="12" fill="#ffffff" text-anchor="middle">Plan the week</text>
+
+  <text x="40" y="346" font-size="12" fill="#52514e">An example only. Use your phone's calendar or paper; keep a paper copy if your area has power cuts.</text>
+</svg>
