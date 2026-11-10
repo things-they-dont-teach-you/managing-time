@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" width="720" height="440" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" role="img" aria-labelledby="t d">
+  <title id="t">Urgent or important: the four boxes</title>
+  <desc id="d">A two by two grid. Important and urgent: do it now, for example a bill due tomorrow. Important but not urgent: schedule it, for example studying, health or sorting out a debt; this box is easiest to neglect. Urgent but not important: limit it, batch it or hand it over, for example most messages and some requests. Neither urgent nor important: drop it or keep it for free time, for example endless scrolling.</desc>
+  <rect width="720" height="440" rx="12" fill="#fcfcfb"/>
+  <text x="40" y="44" font-size="20" font-weight="700" fill="#0b0b0b">Urgent or important?</text>
+  <text x="40" y="68" font-size="14" fill="#52514e">Urgent: due soon or someone's waiting. Important: matters for your goals, health, money, people.</text>
+
+  <g font-size="14" font-weight="600" fill="#52514e" text-anchor="middle">
+    <text x="275" y="100">Urgent</text><text x="555" y="100">Not urgent</text>
+  </g>
+  <g font-size="14" font-weight="600" fill="#52514e" text-anchor="end">
+    <text x="126" y="180">Important</text><text x="126" y="324">Not</text><text x="126" y="342">important</text>
+  </g>
+
+  <rect x="140" y="112" width="270" height="134" rx="6" fill="#eb6834"/>
+  <text x="156" y="144" font-size="18" font-weight="700" fill="#ffffff">Do it now</text>
+  <text x="156" y="170" font-size="14" fill="#ffffff">A bill due tomorrow,</text>
+  <text x="156" y="190" font-size="14" fill="#ffffff">a sick child</text>
+
+  <rect x="420" y="112" width="270" height="134" rx="6" fill="#2a78d6"/>
+  <text x="436" y="144" font-size="18" font-weight="700" fill="#ffffff">Schedule it</text>
+  <text x="436" y="170" font-size="14" fill="#ffffff">Studying, health, sorting out</text>
+  <text x="436" y="190" font-size="14" fill="#ffffff">a debt, rest</text>
+  <text x="436" y="226" font-size="13" font-weight="600" fill="#ffffff">Easiest to neglect: give it a time</text>
+
+  <rect x="140" y="256" width="270" height="134" rx="6" fill="#f3d9cc"/>
+  <text x="156" y="288" font-size="18" font-weight="700" fill="#0b0b0b">Limit, batch or hand over</text>
+  <text x="156" y="314" font-size="14" fill="#0b0b0b">Most messages, some requests,</text>
+  <text x="156" y="334" font-size="14" fill="#0b0b0b">other people's rush</text>
+
+  <rect x="420" y="256" width="270" height="134" rx="6" fill="#e6e5e0"/>
+  <text x="436" y="288" font-size="18" font-weight="700" fill="#0b0b0b">Drop it, or keep it for</text>
+  <text x="436" y="310" font-size="18" font-weight="700" fill="#0b0b0b">free time</text>
+  <text x="436" y="336" font-size="14" fill="#0b0b0b">Endless scrolling</text>
+
+  <text x="40" y="424" font-size="12" fill="#52514e">A thinking tool, not a tested method; the urgency bias it guards against is (see the course's facts).</text>
+</svg>
